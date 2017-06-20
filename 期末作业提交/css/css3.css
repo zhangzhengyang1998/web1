@@ -1,0 +1,39 @@
+*{margin:0 auto;font:18px 宋体;color:black;padding:0;}
+#tu{width:1200px;}
+#p1{width:1200px;height:100px;}
+#a1{width:800px;float:left;padding-top:auto;}
+#a2{padding-top:30px;border:line-height:30px;float:right;}
+.b{width:200px;float:left;}
+.a{background-color:blue;color:white;float:left;}
+#p2{height:100px;width:1200px;}
+#b1{background:url(../图片/web2_03.png);float:left;font-size:25px;color:white;}
+#b2{margin: auto 20px ;float:left;}
+#b3{margin: auto 20px ;float:left;}
+#b4{margin: auto 20px ;float:left;}
+#b5{margin: auto 20px ;float:left;}
+#b6{margin: auto 20px ;float:left;}
+#b7{margin: auto 20px ;float:left;}
+a:link{text-decoration:none;color:black;}
+a:hover{text-decoration:none;color:white;background-color:blue;}
+#b8{clear:both;}
+#p3{width:1200px;height:100px;}
+#c1{width:100px;color:blue;border-right:1px solid blue;float:left;text-align:center;}
+#c2{width:100px;color:yellow;float:left;text-align:center;}
+#c3{float:right;}
+#p4{width:1200px;}
+#d1{float:left;width:400px;}
+#d2{float:left;width:800px;}
+#d2 a:hover{color:yellow;}
+#d2 ul li{margin:30px;}
+span{float:right;}
+#p5{width:1200px;height:100px;clear:both;margin-top:20px;}
+#e1{width:100px;color:blue;border-right:1px solid blue;float:left;text-align:center;}
+#e2{width:100px;color:yellow;float:left;text-align:center;}
+#e3{float:right;}
+#p6{width:1200px;}
+#f1{float:left;width:400px;}
+#f2{float:left;width:800px;}
+#f2 a:hover{color:yellow;}
+#f2 ul li{margin:30px;}
+span{float:right;}
+
